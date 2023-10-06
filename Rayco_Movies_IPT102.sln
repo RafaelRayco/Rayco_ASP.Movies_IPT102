@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rayco_Movies_IPT102", "Rayco_Movies_IPT102\Rayco_Movies_IPT102.csproj", "{75D7AD7E-2425-4C7B-ACD4-0FF40DEAB5F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D7AD7E-2425-4C7B-ACD4-0FF40DEAB5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D7AD7E-2425-4C7B-ACD4-0FF40DEAB5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D7AD7E-2425-4C7B-ACD4-0FF40DEAB5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D7AD7E-2425-4C7B-ACD4-0FF40DEAB5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49DAC22-DA80-419E-A2C5-192F19E34B0A}
+	EndGlobalSection
+EndGlobal
